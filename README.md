@@ -9,7 +9,7 @@
  <br />
  
 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/RealState-Responsive-Web-Page/" target="_blank">Homyz-RealEstate</a>
+ ### Click here for live demo   <a href="https://siddharthchn.github.io/RealEstate/ target="_blank">Homyz-RealEstate</a>
 
 </p>
 
@@ -18,7 +18,8 @@
 ## About The Project:-
 
 
-![Stated](https://github.com/Siddharthchn/RealState-Responsive-Web-Page/assets/109435160/ec4d3cdb-02fe-4cf8-aa44-859fa062cdc2)
+![Homyz](https://github.com/Siddharthchn/RealEstate/assets/109435160/51b20beb-8f96-40fd-a7de-71b1f2ad6850)
+
 
 
 
