@@ -9,7 +9,7 @@
  <br />
  
 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/RealEstate/ target="_blank">Homyz-RealEstate</a>
+ ### Click here for live demo   <a href="https://siddharthchn.github.io/RealEstate/" target="_blank">Homyz-RealEstate</a>
 
 </p>
 
@@ -45,7 +45,19 @@
 - ### React-icons library
 - ### AOS Library
 
+<!-- GETTING STARTED -->
 
+# Getting Started
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+### To run project:-
+
+### `npm start`
+
+### `npm run build`
 
 
 ### Useful resources
